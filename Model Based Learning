@@ -1,0 +1,5 @@
+In model based learning the ML model tries to understand the behaviour of the model by frawing a mathematical function.
+Eg:-Decision trees,Linear Regression
+
+In instance based learning,I require the datapoints(training points),everytime I go to predict,but in model based leaarning,once my model is trained,ai would have come up
+with the decision boundary,thus I dont need the training points anymore. 
