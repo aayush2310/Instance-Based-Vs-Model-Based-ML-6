@@ -1,0 +1,7 @@
+1)Prepare the data for model training,No difference.We need to prepare the data i,e. remove outliers,etc.
+
+2)In model based training,train model from training data to estimate model parameters i.e. discover pattern whereas in instance based learning,do not train model,Pattern 
+discovery postponed until scoring query received.
+
+3)In MBL,store the model in suitable form whereas in IBL,there is no model to store.
+
